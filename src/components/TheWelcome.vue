@@ -250,7 +250,7 @@ h1 {
   .container2 {
     position: relative;
     padding: 30px;
-    margin-top: 0px;
+    margin-top: 20px;
     width: 100% !important;
     display: flex;
   }

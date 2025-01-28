@@ -250,7 +250,7 @@ h1 {
   .container2 {
     position: relative;
     padding: 30px;
-    margin-top: 70px;
+    margin-top: 100px;
     width: 100% !important;
     display: flex;
   }
@@ -305,14 +305,13 @@ h1 {
     height: 100px;
   }
   .btn{
-    margin: auto !important;
-
+    margin-bottom: 20px;
     font-size:14px;
   background: linear-gradient(to right, #0091f2, #0091f2);
   border:none;
   color:var(--color-light);
   height:35px;
-  width:35%;
+  width:38%;
 }
 }
 </style>
